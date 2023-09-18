@@ -1,5 +1,5 @@
 # song_popularity_spotify
-Through the following analysis we aimed at building a robust model through supervised learning to predict popularity of songs in a spotify dataset. We began by analyzing the train dataset, which had 438 rows and 15 columns, of which 1 was a random Id variable, 3 were string variables relating to song name, artist, and genre, and all other variables were numeric. Popularity variable among this was our variable of interest, and hence taken as our dependant variable in the model. We used primarily three supervised methods for our analysis, namely:
+Through the following analysis we aimed at building a robust model with supervised learning to predict popularity of songs in a spotify dataset. We began by analyzing the train dataset, which had 438 rows and 15 columns, of which 1 was a random Id variable, 3 were string variables relating to song name, artist, and genre, and all other variables were numeric. Popularity variable among this was our variable of interest, and hence taken as our dependant variable in the model. We used primarily three supervised methods for our analysis, namely:
 - Linear regression
 - Random Forest regression
 - Support vector regression
